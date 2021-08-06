@@ -1,2 +1,2 @@
 # frontEndMentorProjects
-My solved coding challenges from frontendmentors.io
+My solved coding challenges from frontendmentor.io
